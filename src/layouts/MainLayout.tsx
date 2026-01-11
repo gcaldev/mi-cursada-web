@@ -1,5 +1,5 @@
 import { Box, Container, Paper } from '@mui/material';
-import { ReactNode } from 'react';
+import type { ReactNode } from 'react';
 
 /**
  * Layout principal de la aplicación
